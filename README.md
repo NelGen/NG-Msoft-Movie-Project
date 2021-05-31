@@ -51,8 +51,8 @@ I believe the clear winner here are films with run times less than 90.
 * Aim to make your audience feel intense emotions mesmerized, astonished, haunted.  Mix their emotions with heartbreak, and sadness.  However, also generate feelings of triumph and achievement.
 * Avoid offending or boring your audience, lazy writing, or filling the time with forgettable content.
 
-![Positive_words](https://github.com/NelGen/NG-Msoft-Movie-Project/blob/main/Images/Positive_words.png)
-![Negative_words](https://github.com/NelGen/NG-Msoft-Movie-Project/blob/main/Images/Negative_words.png)
+![Positive_words](https://github.com/NelGen/NG-Msoft-Movie-Project/blob/main/Images/Negative_words.PNG)
+![Negative_words](https://github.com/NelGen/NG-Msoft-Movie-Project/blob/main/Images/Negative_words.PNG)
 
 
 
