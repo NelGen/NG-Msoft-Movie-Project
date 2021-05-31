@@ -30,7 +30,7 @@
 
 # 1. Top 5 Genres
 
-Using the IMDB data base, I found the top 5 genres in the US to be Biography, History, Music, Sports and Drama.
+Using the IMDB database, I found the top 5 genres in the US to be Biography, History, Music, Sports and Drama.
 The results were surprising as I feel the majority of movies were all action and zombie films.
 Perhaps most viewers do not share the same tastes as me.
 
@@ -48,7 +48,7 @@ I believe the clear winner here are films with run times less than 90.
 
 # 3. Highest and Lowest Rated Keywords Found in Reviews
 
-* Aim to make your audience feel intense emotions mesmerized, astonished, haunted.  Mix their emotions with heartbreak, and sadness.  However, also generate feelings of triumph and achievement.
+* Aim to make your audience feel intense emotions such as mesmerized, astonished, haunted.  Mix their emotions with heartbreak, and sadness.  However, also generate feelings of triumph and achievement.
 * Avoid offending or boring your audience, lazy writing, or filling the time with forgettable content.
 
 ![Positive_words](https://github.com/NelGen/NG-Msoft-Movie-Project/blob/main/Images/Negative_words.PNG)
