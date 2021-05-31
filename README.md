@@ -18,6 +18,8 @@ The results were surprising as I feel the majority of movies were all action and
 Perhaps most viewers do not share the same tastes as me.
 
 
+
+
 *** Paste visualization image here from powerpoint
 
 # 2. Effect of Runtime on Ratings
