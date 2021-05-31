@@ -19,7 +19,10 @@ Perhaps most viewers do not share the same tastes as me.
 
 
 
+/Images/Top_5_genres.png
 
+
+! https://github.com/NelGen/NG-Msoft-Movie-Project/tree/main/Images
 *** Paste visualization image here from powerpoint
 
 # 2. Effect of Runtime on Ratings
