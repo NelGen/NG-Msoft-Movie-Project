@@ -19,16 +19,15 @@ Perhaps most viewers do not share the same tastes as me.
 
 
 
-/Images/Top_5_genres.png
-
-
 ![Top_5_genres](https://github.com/NelGen/NG-Msoft-Movie-Project/blob/main/Images/Top_5_genres.png)
-*** Paste visualization image here from powerpoint
+
 
 # 2. Effect of Runtime on Ratings
 
 The highest rated films in the top genres are clustered around short (less than 90 minutes)
 and long (greater than 110 minutes)
+
+![Run_times](https://github.com/NelGen/NG-Msoft-Movie-Project/blob/main/Images/Run_times.png)
 
 I believe the clear winner here are films with run times less than 90.
 
